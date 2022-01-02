@@ -1,0 +1,227 @@
+@import "./base/globals";
+@import "./base/variables";
+@import "./base/mixins";
+h1 {
+    color: $primary-color;
+}
+
+.container {
+    width: 1400px;
+}
+
+// header
+.header-main {
+    position: absolute;
+    background: transparent;
+    text-align: center;
+    left: 50%;
+    transform: translateX(-50%);
+    margin-top: 30px;
+}
+
+.header-top {
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 8px;
+    .ht-logo {
+        img {
+            height: 130px;
+            width: 130px;
+            object-fit: contain;
+        }
+    }
+    form {
+        position: relative;
+    }
+}
+
+.search-bar {
+    width: 80%;
+    input[type="text"] {
+        padding: 10px 20px;
+        border-radius: 28px;
+        outline: 1px solid grey;
+        width: 100%;
+        border: none;
+        background: white;
+    }
+    input::placeholder {
+        text-align: center;
+        font-size: 12px;
+        font-weight: 500;
+        color: #59595967;
+        text-transform: capitalize;
+    }
+}
+
+.search-icon {
+    img {
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        left: 80%;
+    }
+}
+
+.j-c-c {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.j-c-l {
+    display: flex;
+    align-items: center;
+    justify-content: left;
+}
+
+.j-c-r {
+    display: flex;
+    align-items: center;
+    justify-content: right;
+}
+
+.social-icons {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    li {
+        height: 40px;
+        width: 40px;
+        background: $primary-color;
+        text-align: center;
+        border-radius: 50%;
+        line-height: 40px;
+        margin-right: 8px;
+    }
+    a {
+        color: white;
+    }
+}
+
+.hamburger-menu {
+    i {
+        color: white;
+        font-size: 30px;
+        margin-left: 32px;
+    }
+}
+
+.hm-title {
+    margin: 28px 0;
+    h2 {
+        font-size: 90px;
+        color: white;
+        font-weight: 800;
+        text-transform: capitalize;
+    }
+    h6 {
+        font-size: 64px;
+        color: white;
+        font-weight: 200;
+        margin-top: -18px;
+    }
+}
+
+.hm-note {
+    h6 {
+        margin: 30px 0;
+        color: white;
+        font-weight: 300;
+    }
+}
+
+.search-filter {
+    display: flex;
+    align-items: center;
+    margin-top: 80px;
+    select {
+        padding: 10px 90px;
+        border-radius: 28px;
+        border: none;
+        background: white;
+        margin-right: 12px;
+    }
+    form {
+        position: relative;
+    }
+    .front-icon {
+        img {
+            position: absolute;
+            top: 50%;
+            left: 8%;
+            transform: translateY(-50%);
+            pointer-events: none;
+        }
+    }
+    .back-icon {
+        img {
+            position: absolute;
+            top: 50%;
+            right: 8%;
+            transform: translateY(-50%);
+            pointer-events: none;
+        }
+    }
+    select {
+        -moz-appearance: none;
+        /* Firefox */
+        -webkit-appearance: none;
+        /* Safari and Chrome */
+        appearance: none;
+        color: #595959;
+        font-weight: 500;
+    }
+}
+
+.banner-content {
+    margin: 160px 0;
+}
+
+.highligt-text {
+    margin-top: 100px;
+    margin-bottom: 30px;
+    h6 {
+        color: white;
+        font-weight: 400;
+    }
+}
+
+.activities-top {
+    li {
+        background: white;
+        display: inline-block;
+        border-radius: 12px;
+        margin-right: 10px;
+        padding: 15px 35px;
+        text-align: center;
+        img {
+            height: 40px;
+            width: 45px;
+            object-fit: contain;
+        }
+    }
+}
+
+.act-title {
+    margin: 8px 0;
+    h6 {
+        font-size: 12px;
+        font-weight: 500;
+        text-transform: capitalize;
+        color: #595959;
+    }
+}
+
+.view-more-highlights {
+    padding: 0;
+    background: none !important;
+    select {
+        background: none;
+        color: white;
+        outline: none;
+        border: none;
+    }
+}
