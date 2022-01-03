@@ -60,8 +60,11 @@
                             <div class="back-icon">
                                 <img src="./images/dropdown-icon.png" alt="">
                             </div>
-
+                        </div>
                     </form>
+                    <button class="filter-search-btn">
+                        search
+                    </button>
                 </div>
             </div>
             <div class="highlight">
@@ -111,9 +114,1051 @@
 <section class="main-trending sec-padding">
     <div class="container">
         <div class="sec-title">
-            <h2 id="firstWord">Trending package</h2>
+            <h2 class="st-word">Trending packages</h2>
+            <h6>Nepal is the world's premier destination for trekking and the huge variety of trekking options allows
+                for people of many ages and capabilities.
+            </h6>
+        </div>
+        <div class="center">
+            <div class="pacakge-card">
+                <a href="#">
+                    <div class="pc-image">
+                        <img src="./images/slider-image-0.png" alt="">
+                    </div>
+                    <div class="pc-content">
+                        <div class="pcc-dur-loc">
+                            <div class="duration j-c-c">
+                                <img src="./images/duration_white.png" alt="">
+                                <h6>18 days</h6>
+                            </div>
+                            <div class="location j-c-c">
+                                <img src="./images/location_white.png" alt="">
+                                <h6>Solukhumbu</h6>
+                            </div>
+                        </div>
+                        <div class="pc-main-content">
+                            <!-- country -->
+                            <h6>Nepal</h6>
+                            <!-- package-title -->
+                            <h4>Everest Base Camp trek</h4>
+                            <!-- grade -->
+                            <h5> <a href="#">
+                                    grade:<span>Easy</span>
+                                </a></h5>
+                            <!-- price -->
+                            <h3>$1400</h3>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class="pacakge-card">
+                <a href="#">
+                    <div class="pc-image">
+                        <img src="./images/slider-image-1.png" alt="">
+                    </div>
+                    <div class="pc-content">
+                        <div class="pcc-dur-loc">
+                            <div class="duration j-c-c">
+                                <img src="./images/duration_white.png" alt="">
+                                <h6>18 days</h6>
+                            </div>
+                            <div class="location j-c-c">
+                                <img src="./images/location_white.png" alt="">
+                                <h6>Solukhumbu</h6>
+                            </div>
+                        </div>
+                        <div class="pc-main-content">
+                            <!-- country -->
+                            <h6>Nepal</h6>
+                            <!-- package-title -->
+                            <h4>Everest Base Camp trek</h4>
+                            <!-- grade -->
+                            <h5> <a href="#">
+                                    grade:<span>Easy</span>
+                                </a></h5>
+                            <!-- price -->
+                            <h3>$1400</h3>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class="pacakge-card">
+                <a href="#">
+                    <div class="pc-image">
+                        <img src="./images/slider-image-2.png" alt="">
+                    </div>
+                    <div class="pc-content">
+                        <div class="pcc-dur-loc">
+                            <div class="duration j-c-c">
+                                <img src="./images/duration_white.png" alt="">
+                                <h6>18 days</h6>
+                            </div>
+                            <div class="location j-c-c">
+                                <img src="./images/location_white.png" alt="">
+                                <h6>Solukhumbu</h6>
+                            </div>
+                        </div>
+                        <div class="pc-main-content">
+                            <!-- country -->
+                            <h6>Nepal</h6>
+                            <!-- package-title -->
+                            <h4>Everest Base Camp trek</h4>
+                            <!-- grade -->
+                            <h5> <a href="#">
+                                    grade:<span>Easy</span>
+                                </a></h5>
+                            <!-- price -->
+                            <h3>$1400</h3>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class="pacakge-card">
+                <a href="#">
+                    <div class="pc-image">
+                        <img src="./images/slider-image-3.png" alt="">
+                    </div>
+                    <div class="pc-content">
+                        <div class="pcc-dur-loc">
+                            <div class="duration j-c-c">
+                                <img src="./images/duration_white.png" alt="">
+                                <h6>18 days</h6>
+                            </div>
+                            <div class="location j-c-c">
+                                <img src="./images/location_white.png" alt="">
+                                <h6>Solukhumbu</h6>
+                            </div>
+                        </div>
+                        <div class="pc-main-content">
+                            <!-- country -->
+                            <h6>Nepal</h6>
+                            <!-- package-title -->
+                            <h4>Everest Base Camp trek</h4>
+                            <!-- grade -->
+                            <h5> <a href="#">
+                                    grade:<span>Easy</span>
+                                </a></h5>
+                            <!-- price -->
+                            <h3>$1400</h3>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class="pacakge-card">
+                <a href="#">
+                    <div class="pc-image">
+                        <img src="./images/slider-image-4.png" alt="">
+                    </div>
+                    <div class="pc-content">
+                        <div class="pcc-dur-loc">
+                            <div class="duration j-c-c">
+                                <img src="./images/duration_white.png" alt="">
+                                <h6>18 days</h6>
+                            </div>
+                            <div class="location j-c-c">
+                                <img src="./images/location_white.png" alt="">
+                                <h6>Solukhumbu</h6>
+                            </div>
+                        </div>
+                        <div class="pc-main-content">
+                            <!-- country -->
+                            <h6>Nepal</h6>
+                            <!-- package-title -->
+                            <h4>Everest Base Camp trek</h4>
+                            <!-- grade -->
+                            <h5> <a href="#">
+                                    grade:<span>Easy</span>
+                                </a></h5>
+                            <!-- price -->
+                            <h3>$1400</h3>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class="pacakge-card">
+                <a href="#">
+                    <div class="pc-image">
+                        <img src="./images/slider-image-0.png" alt="">
+                    </div>
+                    <div class="pc-content">
+                        <div class="pcc-dur-loc">
+                            <div class="duration j-c-c">
+                                <img src="./images/duration_white.png" alt="">
+                                <h6>18 days</h6>
+                            </div>
+                            <div class="location j-c-c">
+                                <img src="./images/location_white.png" alt="">
+                                <h6>Solukhumbu</h6>
+                            </div>
+                        </div>
+                        <div class="pc-main-content">
+                            <!-- country -->
+                            <h6>Nepal</h6>
+                            <!-- package-title -->
+                            <h4>Everest Base Camp trek</h4>
+                            <!-- grade -->
+                            <h5> <a href="#">
+                                    grade:<span>Easy</span>
+                                </a></h5>
+                            <!-- price -->
+                            <h3>$1400</h3>
+                        </div>
+                    </div>
+                </a>
+            </div>
         </div>
     </div>
 </section>
 
+<!-- main-destination -->
+<section class="main-destination sec-padding">
+    <div class="container">
+        <div class="sec-title">
+            <h2 class="st-word">Choose your desination</h2>
+            <h6>Nepal is the world's premier destination for trekking and the huge variety of trekking options allows
+                for people of many ages and capabilities.
+            </h6>
+        </div>
+        <div class="row">
+            <div class="col-md-3">
+                <div class="md-single">
+                    <a href="#">
+                        <div class="mds-image">
+                            <img src="./images/destination-0.png" alt="">
+                        </div>
+                        <div class="mds-title">
+                            <h5>Nepal</h5>
+                        </div>
+                    </a>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="md-single">
+                    <a href="#">
+                        <div class="mds-image">
+                            <img src="./images/destination-1.png" alt="">
+                        </div>
+                        <div class="mds-title">
+                            <h5>Bhutan</h5>
+                        </div>
+                    </a>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="md-single">
+                    <a href="#">
+                        <div class="mds-image">
+                            <img src="./images/destination-2.png" alt="">
+                        </div>
+                        <div class="mds-title">
+                            <h5>Bangladesh</h5>
+                        </div>
+                    </a>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="md-single">
+                    <a href="#">
+                        <div class="mds-image">
+                            <img src="./images/destination-3.png" alt="">
+                        </div>
+                        <div class="mds-title">
+                            <h5>India</h5>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- main-parallax -->
+<section class="parallax" style="background:url('./images/parallax.png')">
+    <div class="container">
+        <div class="parallax-title-text">
+            <h3>one desire</h3>
+            <h2>one life</h2>
+        </div>
+        <div class="play-button">
+            <a href="#">
+                <img src="./images/play-button.png" alt="">
+            </a>
+        </div>
+        <div class="parallax-text">
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum libero ab recusandae magnam numquam
+                quaerat
+                saepe eos dolor qui exercitationem ratione unde, totam nam dolore molestias quidem consequatur
+                temporibus
+                rem.</p>
+        </div>
+    </div>
+</section>
+
+<!-- featured package -->
+<section class="main-featured-package sec-padding">
+    <div class="container">
+        <div class="sec-title">
+            <h2 class="st-word">featured package</h2>
+        </div>
+        <div class="navigation-featured">
+            <ul class="nav nav-tabs" id="myTab" role="tablist">
+                <li class="nav-item">
+                    <a class="nav-link active" id="home-tab" data-toggle="tab" href="#home" role="tab"
+                        aria-controls="home" aria-selected="true">Trekking</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" id="profile-tab" data-toggle="tab" href="#profile" role="tab"
+                        aria-controls="profile" aria-selected="false">Mountain biking</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" id="contact-tab" data-toggle="tab" href="#contact" role="tab"
+                        aria-controls="contact" aria-selected="false">Festival dates</a>
+                </li>
+            </ul>
+            <div class="tab-content" id="myTabContent">
+                <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
+                    <div class="row">
+                        <div class="col mx-1">
+                            <div class="pacakge-card">
+                                <a href="#">
+                                    <div class="pc-image">
+                                        <img src="./images/slider-image-0.png" alt="">
+                                    </div>
+                                    <div class="pc-content">
+                                        <div class="pcc-dur-loc">
+                                            <div class="duration j-c-c">
+                                                <img src="./images/duration_white.png" alt="">
+                                                <h6>18 days</h6>
+                                            </div>
+                                            <div class="location j-c-c">
+                                                <img src="./images/location_white.png" alt="">
+                                                <h6>Solukhumbu</h6>
+                                            </div>
+                                        </div>
+                                        <div class="pc-main-content">
+                                            <!-- country -->
+                                            <h6>Nepal</h6>
+                                            <!-- package-title -->
+                                            <h4>Everest Base Camp trek</h4>
+                                            <!-- grade -->
+                                            <h5> <a href="#">
+                                                    grade:<span>Easy</span>
+                                                </a></h5>
+                                            <!-- price -->
+                                            <h3>$1400</h3>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col mx-1">
+                            <div class="pacakge-card">
+                                <a href="#">
+                                    <div class="pc-image">
+                                        <img src="./images/slider-image-0.png" alt="">
+                                    </div>
+                                    <div class="pc-content">
+                                        <div class="pcc-dur-loc">
+                                            <div class="duration j-c-c">
+                                                <img src="./images/duration_white.png" alt="">
+                                                <h6>18 days</h6>
+                                            </div>
+                                            <div class="location j-c-c">
+                                                <img src="./images/location_white.png" alt="">
+                                                <h6>Solukhumbu</h6>
+                                            </div>
+                                        </div>
+                                        <div class="pc-main-content">
+                                            <!-- country -->
+                                            <h6>Nepal</h6>
+                                            <!-- package-title -->
+                                            <h4>Everest Base Camp trek</h4>
+                                            <!-- grade -->
+                                            <h5> <a href="#">
+                                                    grade:<span>Easy</span>
+                                                </a></h5>
+                                            <!-- price -->
+                                            <h3>$1400</h3>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col mx-1">
+                            <div class="pacakge-card">
+                                <a href="#">
+                                    <div class="pc-image">
+                                        <img src="./images/slider-image-0.png" alt="">
+                                    </div>
+                                    <div class="pc-content">
+                                        <div class="pcc-dur-loc">
+                                            <div class="duration j-c-c">
+                                                <img src="./images/duration_white.png" alt="">
+                                                <h6>18 days</h6>
+                                            </div>
+                                            <div class="location j-c-c">
+                                                <img src="./images/location_white.png" alt="">
+                                                <h6>Solukhumbu</h6>
+                                            </div>
+                                        </div>
+                                        <div class="pc-main-content">
+                                            <!-- country -->
+                                            <h6>Nepal</h6>
+                                            <!-- package-title -->
+                                            <h4>Everest Base Camp trek</h4>
+                                            <!-- grade -->
+                                            <h5> <a href="#">
+                                                    grade:<span>Easy</span>
+                                                </a></h5>
+                                            <!-- price -->
+                                            <h3>$1400</h3>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col mx-1">
+                            <div class="pacakge-card">
+                                <a href="#">
+                                    <div class="pc-image">
+                                        <img src="./images/slider-image-0.png" alt="">
+                                    </div>
+                                    <div class="pc-content">
+                                        <div class="pcc-dur-loc">
+                                            <div class="duration j-c-c">
+                                                <img src="./images/duration_white.png" alt="">
+                                                <h6>18 days</h6>
+                                            </div>
+                                            <div class="location j-c-c">
+                                                <img src="./images/location_white.png" alt="">
+                                                <h6>Solukhumbu</h6>
+                                            </div>
+                                        </div>
+                                        <div class="pc-main-content">
+                                            <!-- country -->
+                                            <h6>Nepal</h6>
+                                            <!-- package-title -->
+                                            <h4>Everest Base Camp trek</h4>
+                                            <!-- grade -->
+                                            <h5> <a href="#">
+                                                    grade:<span>Easy</span>
+                                                </a></h5>
+                                            <!-- price -->
+                                            <h3>$1400</h3>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col mx-1">
+                            <div class="pacakge-card">
+                                <a href="#">
+                                    <div class="pc-image">
+                                        <img src="./images/slider-image-0.png" alt="">
+                                    </div>
+                                    <div class="pc-content">
+                                        <div class="pcc-dur-loc">
+                                            <div class="duration j-c-c">
+                                                <img src="./images/duration_white.png" alt="">
+                                                <h6>18 days</h6>
+                                            </div>
+                                            <div class="location j-c-c">
+                                                <img src="./images/location_white.png" alt="">
+                                                <h6>Solukhumbu</h6>
+                                            </div>
+                                        </div>
+                                        <div class="pc-main-content">
+                                            <!-- country -->
+                                            <h6>Nepal</h6>
+                                            <!-- package-title -->
+                                            <h4>Everest Base Camp trek</h4>
+                                            <!-- grade -->
+                                            <h5> <a href="#">
+                                                    grade:<span>Easy</span>
+                                                </a></h5>
+                                            <!-- price -->
+                                            <h3>$1400</h3>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+
+
+                </div>
+                <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
+                    <div class="row">
+                        <div class="col mx-1">
+                            <div class="pacakge-card">
+                                <a href="#">
+                                    <div class="pc-image">
+                                        <img src="./images/slider-image-0.png" alt="">
+                                    </div>
+                                    <div class="pc-content">
+                                        <div class="pcc-dur-loc">
+                                            <div class="duration j-c-c">
+                                                <img src="./images/duration_white.png" alt="">
+                                                <h6>18 days</h6>
+                                            </div>
+                                            <div class="location j-c-c">
+                                                <img src="./images/location_white.png" alt="">
+                                                <h6>Solukhumbu</h6>
+                                            </div>
+                                        </div>
+                                        <div class="pc-main-content">
+                                            <!-- country -->
+                                            <h6>Nepal</h6>
+                                            <!-- package-title -->
+                                            <h4>Everest Base Camp trek</h4>
+                                            <!-- grade -->
+                                            <h5> <a href="#">
+                                                    grade:<span>Easy</span>
+                                                </a></h5>
+                                            <!-- price -->
+                                            <h3>$1400</h3>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col mx-1">
+                            <div class="pacakge-card">
+                                <a href="#">
+                                    <div class="pc-image">
+                                        <img src="./images/slider-image-0.png" alt="">
+                                    </div>
+                                    <div class="pc-content">
+                                        <div class="pcc-dur-loc">
+                                            <div class="duration j-c-c">
+                                                <img src="./images/duration_white.png" alt="">
+                                                <h6>18 days</h6>
+                                            </div>
+                                            <div class="location j-c-c">
+                                                <img src="./images/location_white.png" alt="">
+                                                <h6>Solukhumbu</h6>
+                                            </div>
+                                        </div>
+                                        <div class="pc-main-content">
+                                            <!-- country -->
+                                            <h6>Nepal</h6>
+                                            <!-- package-title -->
+                                            <h4>Everest Base Camp trek</h4>
+                                            <!-- grade -->
+                                            <h5> <a href="#">
+                                                    grade:<span>Easy</span>
+                                                </a></h5>
+                                            <!-- price -->
+                                            <h3>$1400</h3>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col mx-1">
+                            <div class="pacakge-card">
+                                <a href="#">
+                                    <div class="pc-image">
+                                        <img src="./images/slider-image-0.png" alt="">
+                                    </div>
+                                    <div class="pc-content">
+                                        <div class="pcc-dur-loc">
+                                            <div class="duration j-c-c">
+                                                <img src="./images/duration_white.png" alt="">
+                                                <h6>18 days</h6>
+                                            </div>
+                                            <div class="location j-c-c">
+                                                <img src="./images/location_white.png" alt="">
+                                                <h6>Solukhumbu</h6>
+                                            </div>
+                                        </div>
+                                        <div class="pc-main-content">
+                                            <!-- country -->
+                                            <h6>Nepal</h6>
+                                            <!-- package-title -->
+                                            <h4>Everest Base Camp trek</h4>
+                                            <!-- grade -->
+                                            <h5> <a href="#">
+                                                    grade:<span>Easy</span>
+                                                </a></h5>
+                                            <!-- price -->
+                                            <h3>$1400</h3>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col mx-1">
+                            <div class="pacakge-card">
+                                <a href="#">
+                                    <div class="pc-image">
+                                        <img src="./images/slider-image-0.png" alt="">
+                                    </div>
+                                    <div class="pc-content">
+                                        <div class="pcc-dur-loc">
+                                            <div class="duration j-c-c">
+                                                <img src="./images/duration_white.png" alt="">
+                                                <h6>18 days</h6>
+                                            </div>
+                                            <div class="location j-c-c">
+                                                <img src="./images/location_white.png" alt="">
+                                                <h6>Solukhumbu</h6>
+                                            </div>
+                                        </div>
+                                        <div class="pc-main-content">
+                                            <!-- country -->
+                                            <h6>Nepal</h6>
+                                            <!-- package-title -->
+                                            <h4>Everest Base Camp trek</h4>
+                                            <!-- grade -->
+                                            <h5> <a href="#">
+                                                    grade:<span>Easy</span>
+                                                </a></h5>
+                                            <!-- price -->
+                                            <h3>$1400</h3>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col mx-1">
+                            <div class="pacakge-card">
+                                <a href="#">
+                                    <div class="pc-image">
+                                        <img src="./images/slider-image-0.png" alt="">
+                                    </div>
+                                    <div class="pc-content">
+                                        <div class="pcc-dur-loc">
+                                            <div class="duration j-c-c">
+                                                <img src="./images/duration_white.png" alt="">
+                                                <h6>18 days</h6>
+                                            </div>
+                                            <div class="location j-c-c">
+                                                <img src="./images/location_white.png" alt="">
+                                                <h6>Solukhumbu</h6>
+                                            </div>
+                                        </div>
+                                        <div class="pc-main-content">
+                                            <!-- country -->
+                                            <h6>Nepal</h6>
+                                            <!-- package-title -->
+                                            <h4>Everest Base Camp trek</h4>
+                                            <!-- grade -->
+                                            <h5> <a href="#">
+                                                    grade:<span>Easy</span>
+                                                </a></h5>
+                                            <!-- price -->
+                                            <h3>$1400</h3>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="tab-pane fade" id="contact" role="tabpanel" aria-labelledby="contact-tab">
+                    <div class="row">
+                        <div class="col mx-1">
+                            <div class="pacakge-card">
+                                <a href="#">
+                                    <div class="pc-image">
+                                        <img src="./images/slider-image-0.png" alt="">
+                                    </div>
+                                    <div class="pc-content">
+                                        <div class="pcc-dur-loc">
+                                            <div class="duration j-c-c">
+                                                <img src="./images/duration_white.png" alt="">
+                                                <h6>18 days</h6>
+                                            </div>
+                                            <div class="location j-c-c">
+                                                <img src="./images/location_white.png" alt="">
+                                                <h6>Solukhumbu</h6>
+                                            </div>
+                                        </div>
+                                        <div class="pc-main-content">
+                                            <!-- country -->
+                                            <h6>Nepal</h6>
+                                            <!-- package-title -->
+                                            <h4>Everest Base Camp trek</h4>
+                                            <!-- grade -->
+                                            <h5> <a href="#">
+                                                    grade:<span>Easy</span>
+                                                </a></h5>
+                                            <!-- price -->
+                                            <h3>$1400</h3>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col mx-1">
+                            <div class="pacakge-card">
+                                <a href="#">
+                                    <div class="pc-image">
+                                        <img src="./images/slider-image-0.png" alt="">
+                                    </div>
+                                    <div class="pc-content">
+                                        <div class="pcc-dur-loc">
+                                            <div class="duration j-c-c">
+                                                <img src="./images/duration_white.png" alt="">
+                                                <h6>18 days</h6>
+                                            </div>
+                                            <div class="location j-c-c">
+                                                <img src="./images/location_white.png" alt="">
+                                                <h6>Solukhumbu</h6>
+                                            </div>
+                                        </div>
+                                        <div class="pc-main-content">
+                                            <!-- country -->
+                                            <h6>Nepal</h6>
+                                            <!-- package-title -->
+                                            <h4>Everest Base Camp trek</h4>
+                                            <!-- grade -->
+                                            <h5> <a href="#">
+                                                    grade:<span>Easy</span>
+                                                </a></h5>
+                                            <!-- price -->
+                                            <h3>$1400</h3>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col mx-1">
+                            <div class="pacakge-card">
+                                <a href="#">
+                                    <div class="pc-image">
+                                        <img src="./images/slider-image-0.png" alt="">
+                                    </div>
+                                    <div class="pc-content">
+                                        <div class="pcc-dur-loc">
+                                            <div class="duration j-c-c">
+                                                <img src="./images/duration_white.png" alt="">
+                                                <h6>18 days</h6>
+                                            </div>
+                                            <div class="location j-c-c">
+                                                <img src="./images/location_white.png" alt="">
+                                                <h6>Solukhumbu</h6>
+                                            </div>
+                                        </div>
+                                        <div class="pc-main-content">
+                                            <!-- country -->
+                                            <h6>Nepal</h6>
+                                            <!-- package-title -->
+                                            <h4>Everest Base Camp trek</h4>
+                                            <!-- grade -->
+                                            <h5> <a href="#">
+                                                    grade:<span>Easy</span>
+                                                </a></h5>
+                                            <!-- price -->
+                                            <h3>$1400</h3>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col mx-1">
+                            <div class="pacakge-card">
+                                <a href="#">
+                                    <div class="pc-image">
+                                        <img src="./images/slider-image-0.png" alt="">
+                                    </div>
+                                    <div class="pc-content">
+                                        <div class="pcc-dur-loc">
+                                            <div class="duration j-c-c">
+                                                <img src="./images/duration_white.png" alt="">
+                                                <h6>18 days</h6>
+                                            </div>
+                                            <div class="location j-c-c">
+                                                <img src="./images/location_white.png" alt="">
+                                                <h6>Solukhumbu</h6>
+                                            </div>
+                                        </div>
+                                        <div class="pc-main-content">
+                                            <!-- country -->
+                                            <h6>Nepal</h6>
+                                            <!-- package-title -->
+                                            <h4>Everest Base Camp trek</h4>
+                                            <!-- grade -->
+                                            <h5> <a href="#">
+                                                    grade:<span>Easy</span>
+                                                </a></h5>
+                                            <!-- price -->
+                                            <h3>$1400</h3>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col mx-1">
+                            <div class="pacakge-card">
+                                <a href="#">
+                                    <div class="pc-image">
+                                        <img src="./images/slider-image-0.png" alt="">
+                                    </div>
+                                    <div class="pc-content">
+                                        <div class="pcc-dur-loc">
+                                            <div class="duration j-c-c">
+                                                <img src="./images/duration_white.png" alt="">
+                                                <h6>18 days</h6>
+                                            </div>
+                                            <div class="location j-c-c">
+                                                <img src="./images/location_white.png" alt="">
+                                                <h6>Solukhumbu</h6>
+                                            </div>
+                                        </div>
+                                        <div class="pc-main-content">
+                                            <!-- country -->
+                                            <h6>Nepal</h6>
+                                            <!-- package-title -->
+                                            <h4>Everest Base Camp trek</h4>
+                                            <!-- grade -->
+                                            <h5> <a href="#">
+                                                    grade:<span>Easy</span>
+                                                </a></h5>
+                                            <!-- price -->
+                                            <h3>$1400</h3>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col mx-1">
+                            <div class="pacakge-card">
+                                <a href="#">
+                                    <div class="pc-image">
+                                        <img src="./images/slider-image-0.png" alt="">
+                                    </div>
+                                    <div class="pc-content">
+                                        <div class="pcc-dur-loc">
+                                            <div class="duration j-c-c">
+                                                <img src="./images/duration_white.png" alt="">
+                                                <h6>18 days</h6>
+                                            </div>
+                                            <div class="location j-c-c">
+                                                <img src="./images/location_white.png" alt="">
+                                                <h6>Solukhumbu</h6>
+                                            </div>
+                                        </div>
+                                        <div class="pc-main-content">
+                                            <!-- country -->
+                                            <h6>Nepal</h6>
+                                            <!-- package-title -->
+                                            <h4>Everest Base Camp trek</h4>
+                                            <!-- grade -->
+                                            <h5> <a href="#">
+                                                    grade:<span>Easy</span>
+                                                </a></h5>
+                                            <!-- price -->
+                                            <h3>$1400</h3>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col mx-1">
+                            <div class="pacakge-card">
+                                <a href="#">
+                                    <div class="pc-image">
+                                        <img src="./images/slider-image-0.png" alt="">
+                                    </div>
+                                    <div class="pc-content">
+                                        <div class="pcc-dur-loc">
+                                            <div class="duration j-c-c">
+                                                <img src="./images/duration_white.png" alt="">
+                                                <h6>18 days</h6>
+                                            </div>
+                                            <div class="location j-c-c">
+                                                <img src="./images/location_white.png" alt="">
+                                                <h6>Solukhumbu</h6>
+                                            </div>
+                                        </div>
+                                        <div class="pc-main-content">
+                                            <!-- country -->
+                                            <h6>Nepal</h6>
+                                            <!-- package-title -->
+                                            <h4>Everest Base Camp trek</h4>
+                                            <!-- grade -->
+                                            <h5> <a href="#">
+                                                    grade:<span>Easy</span>
+                                                </a></h5>
+                                            <!-- price -->
+                                            <h3>$1400</h3>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col mx-1">
+                            <div class="pacakge-card">
+                                <a href="#">
+                                    <div class="pc-image">
+                                        <img src="./images/slider-image-0.png" alt="">
+                                    </div>
+                                    <div class="pc-content">
+                                        <div class="pcc-dur-loc">
+                                            <div class="duration j-c-c">
+                                                <img src="./images/duration_white.png" alt="">
+                                                <h6>18 days</h6>
+                                            </div>
+                                            <div class="location j-c-c">
+                                                <img src="./images/location_white.png" alt="">
+                                                <h6>Solukhumbu</h6>
+                                            </div>
+                                        </div>
+                                        <div class="pc-main-content">
+                                            <!-- country -->
+                                            <h6>Nepal</h6>
+                                            <!-- package-title -->
+                                            <h4>Everest Base Camp trek</h4>
+                                            <!-- grade -->
+                                            <h5> <a href="#">
+                                                    grade:<span>Easy</span>
+                                                </a></h5>
+                                            <!-- price -->
+                                            <h3>$1400</h3>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col mx-1">
+                            <div class="pacakge-card">
+                                <a href="#">
+                                    <div class="pc-image">
+                                        <img src="./images/slider-image-0.png" alt="">
+                                    </div>
+                                    <div class="pc-content">
+                                        <div class="pcc-dur-loc">
+                                            <div class="duration j-c-c">
+                                                <img src="./images/duration_white.png" alt="">
+                                                <h6>18 days</h6>
+                                            </div>
+                                            <div class="location j-c-c">
+                                                <img src="./images/location_white.png" alt="">
+                                                <h6>Solukhumbu</h6>
+                                            </div>
+                                        </div>
+                                        <div class="pc-main-content">
+                                            <!-- country -->
+                                            <h6>Nepal</h6>
+                                            <!-- package-title -->
+                                            <h4>Everest Base Camp trek</h4>
+                                            <!-- grade -->
+                                            <h5> <a href="#">
+                                                    grade:<span>Easy</span>
+                                                </a></h5>
+                                            <!-- price -->
+                                            <h3>$1400</h3>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col mx-1">
+                            <div class="pacakge-card">
+                                <a href="#">
+                                    <div class="pc-image">
+                                        <img src="./images/slider-image-0.png" alt="">
+                                    </div>
+                                    <div class="pc-content">
+                                        <div class="pcc-dur-loc">
+                                            <div class="duration j-c-c">
+                                                <img src="./images/duration_white.png" alt="">
+                                                <h6>18 days</h6>
+                                            </div>
+                                            <div class="location j-c-c">
+                                                <img src="./images/location_white.png" alt="">
+                                                <h6>Solukhumbu</h6>
+                                            </div>
+                                        </div>
+                                        <div class="pc-main-content">
+                                            <!-- country -->
+                                            <h6>Nepal</h6>
+                                            <!-- package-title -->
+                                            <h4>Everest Base Camp trek</h4>
+                                            <!-- grade -->
+                                            <h5> <a href="#">
+                                                    grade:<span>Easy</span>
+                                                </a></h5>
+                                            <!-- price -->
+                                            <h3>$1400</h3>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="view-more">
+            <a href="#">View more</a>
+        </div>
+    </div>
+</section>
+
+
+<!-- latest update -->
+<section class="main-update sec-padding">
+    <div class="container">
+        <div class="sec-title">
+            <h2 class="st-word">Latest update</h2>
+            <h6>Nepal is the world's premier destination for trekking and the huge variety of trekking options allows
+                for people of many ages and capabilities.
+            </h6>
+        </div>
+        <div class="row">
+            <div class="col-md-7">
+                <div class="mu-single">
+                    <h6><a href="#">
+                            covid 19 & Vaccines in nepal
+                        </a>
+                    </h6>
+                </div>
+                <div class="mu-single">
+                    <h6><a href="#">
+                            Adventure in Restricted area in Nepal
+                        </a>
+                    </h6>
+                </div>
+                <div class="mu-single">
+                    <h6><a href="#">
+                            Nepal Goverment latest policy on international borders
+                        </a>
+                    </h6>
+                </div>
+                <div class="mu-single">
+                    <h6><a href="#">
+                            covid 19 & Vaccines in nepal
+                        </a>
+                    </h6>
+                </div>
+                <div class="mu-single">
+                    <h6><a href="#">
+                            Adventure in Restricted area in Nepal
+                        </a>
+                    </h6>
+                </div>
+                <div class="mu-single">
+                    <h6><a href="#">
+                            Nepal Goverment latest policy on international borders
+                        </a>
+                    </h6>
+                </div>
+
+                <div class="view-more">
+                    <a href="#">view more</a>
+                </div>
+            </div>
+            <div class="col-md-5">
+                <div class="mu-image">
+                    <img src="./images/latest_update.png" alt="">
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 <?php include 'footer.php'?>
