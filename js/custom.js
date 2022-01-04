@@ -49,3 +49,57 @@ $(".center").slick({
         },
     ],
 });
+
+$(".center-two").slick({
+    slidesToShow: 4,
+    autoplay: true,
+    autoplaySpeed: 4000,
+    slidesToScroll: 2,
+    prevArrow: "<i class='fas fa-chevron-circle-left'></i>",
+    nextArrow: "<i class='fas fa-chevron-circle-right'></i>",
+    responsive: [{
+            breakpoint: 768,
+            settings: {
+                arrows: false,
+                centerMode: true,
+                centerPadding: "40px",
+                slidesToShow: 3,
+            },
+        },
+        {
+            breakpoint: 480,
+            settings: {
+                arrows: false,
+                centerMode: true,
+                centerPadding: "40px",
+                slidesToShow: 1,
+            },
+        },
+    ],
+});
+
+// cart
+$(".check__cart").click(function() {
+    $("#cart").addClass("open");
+    $("body").addClass("open-opacity");
+});
+const $cart = $("#cart");
+$(document).mouseup((e) => {
+    if (!$cart.is(e.target) && // if the target of the click isn't the container...
+        $cart.has(e.target).length === 0
+    ) {
+        // ... nor a descendant of the container
+        $cart.removeClass("open");
+        $("body").removeClass("open-opacity");
+    }
+});
+
+$(".closebtn").click(function() {
+    $("#cart").removeClass("open");
+    $("#profile").removeClass("open");
+    $("body").removeClass("open-opacity");
+});
+
+$(".dropdown-trigger").click(function() {
+    $(".dropdown-content").toggle("400");
+});

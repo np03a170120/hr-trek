@@ -115,9 +115,9 @@
     <div class="container">
         <div class="sec-title">
             <h2 class="st-word">Trending packages</h2>
-            <h6>Nepal is the world's premier destination for trekking and the huge variety of trekking options allows
+            <!-- <h6>Nepal is the world's premier destination for trekking and the huge variety of trekking options allows
                 for people of many ages and capabilities.
-            </h6>
+            </h6> -->
         </div>
         <div class="center">
             <div class="pacakge-card">
@@ -315,11 +315,11 @@
     <div class="container">
         <div class="sec-title">
             <h2 class="st-word">Choose your desination</h2>
-            <h6>Nepal is the world's premier destination for trekking and the huge variety of trekking options allows
+            <!-- <h6>Nepal is the world's premier destination for trekking and the huge variety of trekking options allows
                 for people of many ages and capabilities.
-            </h6>
+            </h6> -->
         </div>
-        <div class="row">
+        <!-- <div class="row">
             <div class="col-md-3">
                 <div class="md-single">
                     <a href="#">
@@ -368,6 +368,68 @@
                     </a>
                 </div>
             </div>
+        </div> -->
+        <div class="center-two">
+            <div class="md-single">
+                <a href="#">
+                    <div class="mds-image">
+                        <img src="./images/destination-0.png" alt="">
+                    </div>
+                    <div class="mds-title">
+                        <h5>Nepal</h5>
+                    </div>
+                </a>
+            </div>
+            <div class="md-single">
+                <a href="#">
+                    <div class="mds-image">
+                        <img src="./images/destination-1.png" alt="">
+                    </div>
+                    <div class="mds-title">
+                        <h5>Nepal</h5>
+                    </div>
+                </a>
+            </div>
+            <div class="md-single">
+                <a href="#">
+                    <div class="mds-image">
+                        <img src="./images/destination-2.png" alt="">
+                    </div>
+                    <div class="mds-title">
+                        <h5>Nepal</h5>
+                    </div>
+                </a>
+            </div>
+            <div class="md-single">
+                <a href="#">
+                    <div class="mds-image">
+                        <img src="./images/destination-3.png" alt="">
+                    </div>
+                    <div class="mds-title">
+                        <h5>Nepal</h5>
+                    </div>
+                </a>
+            </div>
+            <div class="md-single">
+                <a href="#">
+                    <div class="mds-image">
+                        <img src="./images/destination-0.png" alt="">
+                    </div>
+                    <div class="mds-title">
+                        <h5>Nepal</h5>
+                    </div>
+                </a>
+            </div>
+            <div class="md-single">
+                <a href="#">
+                    <div class="mds-image">
+                        <img src="./images/destination-0.png" alt="">
+                    </div>
+                    <div class="mds-title">
+                        <h5>Nepal</h5>
+                    </div>
+                </a>
+            </div>
         </div>
     </div>
 </section>
@@ -384,13 +446,13 @@
                 <img src="./images/play-button.png" alt="">
             </a>
         </div>
-        <div class="parallax-text">
+        <!-- <div class="parallax-text">
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum libero ab recusandae magnam numquam
                 quaerat
                 saepe eos dolor qui exercitationem ratione unde, totam nam dolore molestias quidem consequatur
                 temporibus
                 rem.</p>
-        </div>
+        </div> -->
     </div>
 </section>
 
@@ -1100,15 +1162,14 @@
     </div>
 </section>
 
-
 <!-- latest update -->
 <section class="main-update sec-padding">
     <div class="container">
         <div class="sec-title">
             <h2 class="st-word">Latest update</h2>
-            <h6>Nepal is the world's premier destination for trekking and the huge variety of trekking options allows
+            <!-- <h6>Nepal is the world's premier destination for trekking and the huge variety of trekking options allows
                 for people of many ages and capabilities.
-            </h6>
+            </h6> -->
         </div>
         <div class="row">
             <div class="col-md-7">

@@ -88,14 +88,16 @@ h1 {
     display: flex;
     align-items: center;
     justify-content: center;
+    margin: 0 30px;
     li {
-        height: 40px;
-        width: 40px;
+        height: 30px;
+        width: 30px;
         background: $primary-color;
         text-align: center;
         border-radius: 50%;
-        line-height: 40px;
+        line-height: 30px;
         margin-right: 8px;
+        font-size: 14px;
     }
     a {
         color: white;
@@ -113,13 +115,13 @@ h1 {
 .hm-title {
     margin: 28px 0;
     h2 {
-        font-size: 90px;
+        font-size: 70px;
         color: white;
         font-weight: 800;
         text-transform: capitalize;
     }
     h6 {
-        font-size: 64px;
+        font-size: 50px;
         color: white;
         font-weight: 200;
         margin-top: -18px;
@@ -139,7 +141,7 @@ h1 {
     align-items: center;
     margin-top: 80px;
     select {
-        padding: 10px 90px;
+        padding: 10px 80px;
         border-radius: 28px;
         border: none;
         background: white;
@@ -178,7 +180,7 @@ h1 {
 }
 
 .banner-content {
-    margin: 160px 0;
+    margin-top: 130px;
 }
 
 .highligt-text {
@@ -196,7 +198,7 @@ h1 {
         display: inline-block;
         border-radius: 12px;
         margin-right: 10px;
-        padding: 15px 35px;
+        padding: 10px 30px;
         text-align: center;
         img {
             height: 40px;
@@ -318,13 +320,14 @@ h1 {
             color: white;
         }
         h6 {
-            color: white;
+            color: #888888;
         }
     }
 }
 
 .md-single {
     position: relative;
+    margin: 0 8px !important;
     .mds-title {
         padding: 6px 0;
         background-image: linear-gradient(#f46c24, #00000031);
@@ -353,8 +356,8 @@ h1 {
 }
 
 .parallax {
-    margin: 40px 0;
-    height: 60vh;
+    margin-top: 40px;
+    height: 70vh;
     position: relative;
     background-position: center !important;
     background-size: cover !important;
@@ -442,7 +445,6 @@ h1 {
         text-transform: capitalize;
     }
     .nav-tabs {
-        margin-top: 25px;
         margin-bottom: 30px;
         justify-content: center;
     }
@@ -585,4 +587,25 @@ h1 {
         width: 45px;
         object-fit: contain;
     }
+}
+
+.nav-contact {
+    display: flex;
+    align-items: flex-start;
+    .left-info {
+        margin-left: 8px;
+        color: white;
+        .info {
+            font-size: 12px;
+            margin: 0;
+        }
+        .info-label {
+            font-size: 12px;
+            color: rgb(194, 194, 194);
+        }
+    }
+}
+
+.navgation-contact-wrapper {
+    padding: 20px;
 }
