@@ -371,7 +371,7 @@
         </div> -->
         <div class="center-two">
             <div class="md-single">
-                <a href="#">
+                <a href="destination.php">
                     <div class="mds-image">
                         <img src="./images/destination-0.png" alt="">
                     </div>
@@ -381,7 +381,7 @@
                 </a>
             </div>
             <div class="md-single">
-                <a href="#">
+                <a href="destination.php">
                     <div class="mds-image">
                         <img src="./images/destination-1.png" alt="">
                     </div>
@@ -391,7 +391,7 @@
                 </a>
             </div>
             <div class="md-single">
-                <a href="#">
+                <a href="destination.php">
                     <div class="mds-image">
                         <img src="./images/destination-2.png" alt="">
                     </div>
@@ -401,7 +401,7 @@
                 </a>
             </div>
             <div class="md-single">
-                <a href="#">
+                <a href="destination.php">
                     <div class="mds-image">
                         <img src="./images/destination-3.png" alt="">
                     </div>
@@ -480,7 +480,7 @@
             <div class="tab-content" id="myTabContent">
                 <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
                     <div class="row">
-                        <div class="col mx-1">
+                        <div class="col-xs-2 col-half-offset">
                             <div class="pacakge-card">
                                 <a href="#">
                                     <div class="pc-image">
@@ -513,7 +513,7 @@
                                 </a>
                             </div>
                         </div>
-                        <div class="col mx-1">
+                        <div class="col-xs-2 col-half-offset">
                             <div class="pacakge-card">
                                 <a href="#">
                                     <div class="pc-image">
@@ -546,7 +546,7 @@
                                 </a>
                             </div>
                         </div>
-                        <div class="col mx-1">
+                        <div class="col-xs-2 col-half-offset">
                             <div class="pacakge-card">
                                 <a href="#">
                                     <div class="pc-image">
@@ -579,7 +579,7 @@
                                 </a>
                             </div>
                         </div>
-                        <div class="col mx-1">
+                        <div class="col-xs-2 col-half-offset">
                             <div class="pacakge-card">
                                 <a href="#">
                                     <div class="pc-image">
@@ -612,7 +612,7 @@
                                 </a>
                             </div>
                         </div>
-                        <div class="col mx-1">
+                        <div class="col-xs-2 col-half-offset">
                             <div class="pacakge-card">
                                 <a href="#">
                                     <div class="pc-image">
@@ -646,12 +646,10 @@
                             </div>
                         </div>
                     </div>
-
-
                 </div>
                 <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
                     <div class="row">
-                        <div class="col mx-1">
+                        <div class="col-xs-2 col-half-offset">
                             <div class="pacakge-card">
                                 <a href="#">
                                     <div class="pc-image">
@@ -684,7 +682,7 @@
                                 </a>
                             </div>
                         </div>
-                        <div class="col mx-1">
+                        <div class="col-xs-2 col-half-offset">
                             <div class="pacakge-card">
                                 <a href="#">
                                     <div class="pc-image">
@@ -717,7 +715,7 @@
                                 </a>
                             </div>
                         </div>
-                        <div class="col mx-1">
+                        <div class="col-xs-2 col-half-offset">
                             <div class="pacakge-card">
                                 <a href="#">
                                     <div class="pc-image">
@@ -750,7 +748,7 @@
                                 </a>
                             </div>
                         </div>
-                        <div class="col mx-1">
+                        <div class="col-xs-2 col-half-offset">
                             <div class="pacakge-card">
                                 <a href="#">
                                     <div class="pc-image">
@@ -783,7 +781,7 @@
                                 </a>
                             </div>
                         </div>
-                        <div class="col mx-1">
+                        <div class="col-xs-2 col-half-offset">
                             <div class="pacakge-card">
                                 <a href="#">
                                     <div class="pc-image">
@@ -820,7 +818,7 @@
                 </div>
                 <div class="tab-pane fade" id="contact" role="tabpanel" aria-labelledby="contact-tab">
                     <div class="row">
-                        <div class="col mx-1">
+                        <div class="col-xs-2 col-half-offset">
                             <div class="pacakge-card">
                                 <a href="#">
                                     <div class="pc-image">
@@ -853,7 +851,7 @@
                                 </a>
                             </div>
                         </div>
-                        <div class="col mx-1">
+                        <div class="col-xs-2 col-half-offset">
                             <div class="pacakge-card">
                                 <a href="#">
                                     <div class="pc-image">
@@ -886,7 +884,7 @@
                                 </a>
                             </div>
                         </div>
-                        <div class="col mx-1">
+                        <div class="col-xs-2 col-half-offset">
                             <div class="pacakge-card">
                                 <a href="#">
                                     <div class="pc-image">
@@ -919,7 +917,7 @@
                                 </a>
                             </div>
                         </div>
-                        <div class="col mx-1">
+                        <div class="col-xs-2 col-half-offset">
                             <div class="pacakge-card">
                                 <a href="#">
                                     <div class="pc-image">
@@ -952,7 +950,7 @@
                                 </a>
                             </div>
                         </div>
-                        <div class="col mx-1">
+                        <div class="col-xs-2 col-half-offset">
                             <div class="pacakge-card">
                                 <a href="#">
                                     <div class="pc-image">
@@ -985,173 +983,7 @@
                                 </a>
                             </div>
                         </div>
-                    </div>
-                    <div class="row">
-                        <div class="col mx-1">
-                            <div class="pacakge-card">
-                                <a href="#">
-                                    <div class="pc-image">
-                                        <img src="./images/slider-image-0.png" alt="">
-                                    </div>
-                                    <div class="pc-content">
-                                        <div class="pcc-dur-loc">
-                                            <div class="duration j-c-c">
-                                                <img src="./images/duration_white.png" alt="">
-                                                <h6>18 days</h6>
-                                            </div>
-                                            <div class="location j-c-c">
-                                                <img src="./images/location_white.png" alt="">
-                                                <h6>Solukhumbu</h6>
-                                            </div>
-                                        </div>
-                                        <div class="pc-main-content">
-                                            <!-- country -->
-                                            <h6>Nepal</h6>
-                                            <!-- package-title -->
-                                            <h4>Everest Base Camp trek</h4>
-                                            <!-- grade -->
-                                            <h5> <a href="#">
-                                                    grade:<span>Easy</span>
-                                                </a></h5>
-                                            <!-- price -->
-                                            <h3>$1400</h3>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>
-                        </div>
-                        <div class="col mx-1">
-                            <div class="pacakge-card">
-                                <a href="#">
-                                    <div class="pc-image">
-                                        <img src="./images/slider-image-0.png" alt="">
-                                    </div>
-                                    <div class="pc-content">
-                                        <div class="pcc-dur-loc">
-                                            <div class="duration j-c-c">
-                                                <img src="./images/duration_white.png" alt="">
-                                                <h6>18 days</h6>
-                                            </div>
-                                            <div class="location j-c-c">
-                                                <img src="./images/location_white.png" alt="">
-                                                <h6>Solukhumbu</h6>
-                                            </div>
-                                        </div>
-                                        <div class="pc-main-content">
-                                            <!-- country -->
-                                            <h6>Nepal</h6>
-                                            <!-- package-title -->
-                                            <h4>Everest Base Camp trek</h4>
-                                            <!-- grade -->
-                                            <h5> <a href="#">
-                                                    grade:<span>Easy</span>
-                                                </a></h5>
-                                            <!-- price -->
-                                            <h3>$1400</h3>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>
-                        </div>
-                        <div class="col mx-1">
-                            <div class="pacakge-card">
-                                <a href="#">
-                                    <div class="pc-image">
-                                        <img src="./images/slider-image-0.png" alt="">
-                                    </div>
-                                    <div class="pc-content">
-                                        <div class="pcc-dur-loc">
-                                            <div class="duration j-c-c">
-                                                <img src="./images/duration_white.png" alt="">
-                                                <h6>18 days</h6>
-                                            </div>
-                                            <div class="location j-c-c">
-                                                <img src="./images/location_white.png" alt="">
-                                                <h6>Solukhumbu</h6>
-                                            </div>
-                                        </div>
-                                        <div class="pc-main-content">
-                                            <!-- country -->
-                                            <h6>Nepal</h6>
-                                            <!-- package-title -->
-                                            <h4>Everest Base Camp trek</h4>
-                                            <!-- grade -->
-                                            <h5> <a href="#">
-                                                    grade:<span>Easy</span>
-                                                </a></h5>
-                                            <!-- price -->
-                                            <h3>$1400</h3>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>
-                        </div>
-                        <div class="col mx-1">
-                            <div class="pacakge-card">
-                                <a href="#">
-                                    <div class="pc-image">
-                                        <img src="./images/slider-image-0.png" alt="">
-                                    </div>
-                                    <div class="pc-content">
-                                        <div class="pcc-dur-loc">
-                                            <div class="duration j-c-c">
-                                                <img src="./images/duration_white.png" alt="">
-                                                <h6>18 days</h6>
-                                            </div>
-                                            <div class="location j-c-c">
-                                                <img src="./images/location_white.png" alt="">
-                                                <h6>Solukhumbu</h6>
-                                            </div>
-                                        </div>
-                                        <div class="pc-main-content">
-                                            <!-- country -->
-                                            <h6>Nepal</h6>
-                                            <!-- package-title -->
-                                            <h4>Everest Base Camp trek</h4>
-                                            <!-- grade -->
-                                            <h5> <a href="#">
-                                                    grade:<span>Easy</span>
-                                                </a></h5>
-                                            <!-- price -->
-                                            <h3>$1400</h3>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>
-                        </div>
-                        <div class="col mx-1">
-                            <div class="pacakge-card">
-                                <a href="#">
-                                    <div class="pc-image">
-                                        <img src="./images/slider-image-0.png" alt="">
-                                    </div>
-                                    <div class="pc-content">
-                                        <div class="pcc-dur-loc">
-                                            <div class="duration j-c-c">
-                                                <img src="./images/duration_white.png" alt="">
-                                                <h6>18 days</h6>
-                                            </div>
-                                            <div class="location j-c-c">
-                                                <img src="./images/location_white.png" alt="">
-                                                <h6>Solukhumbu</h6>
-                                            </div>
-                                        </div>
-                                        <div class="pc-main-content">
-                                            <!-- country -->
-                                            <h6>Nepal</h6>
-                                            <!-- package-title -->
-                                            <h4>Everest Base Camp trek</h4>
-                                            <!-- grade -->
-                                            <h5> <a href="#">
-                                                    grade:<span>Easy</span>
-                                                </a></h5>
-                                            <!-- price -->
-                                            <h3>$1400</h3>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>
-                        </div>
+
                     </div>
                 </div>
             </div>

@@ -24,7 +24,9 @@
             <div class="row">
                 <div class="col-md-3 j-c-l">
                     <div class="ht-logo">
-                        <img src="./images/Himalayan-Rock-Logo 1.png" alt="">
+                        <a href="index.php">
+                            <img src="./images/Himalayan-Rock-Logo 1.png" alt="">
+                        </a>
                     </div>
                 </div>
                 <div class="col-md-6 j-c-c">
@@ -73,7 +75,7 @@
             <li class="dropdown-trigger">Nepal</li>
             <div class="dropdown-content">
                 <ul>
-                    <li class="view-all-nav"><a href="#">View All Nepal packages</a></li>
+                    <li class="view-all-nav"><a href="package.php">View All Nepal packages</a></li>
                     <li><a href="#">Hiking</a></li>
                     <li><a href="#">Mountain Biking</a></li>
                     <li><a href="#">Peak Climbing</a></li>

@@ -43,7 +43,6 @@ h1 {
     input[type="text"] {
         padding: 10px 20px;
         border-radius: 28px;
-        outline: 1px solid grey;
         width: 100%;
         border: none;
         background: white;
@@ -252,7 +251,11 @@ h1 {
     border-radius: 8px;
     color: white;
     min-height: 350px;
+    max-height: 350px;
+    width: 238px;
+    max-width: 238px;
     margin-bottom: 12px;
+    overflow: hidden;
     background: $secondary_color;
     a {
         color: white;
@@ -291,7 +294,7 @@ h1 {
     }
     h4 {
         font-weight: 400;
-        font-size: 16px;
+        font-size: 14px;
         color: $primary_color;
         text-transform: capitalize;
     }
@@ -300,7 +303,8 @@ h1 {
         text-transform: capitalize;
         a {
             color: #c4c4c4;
-            font-weight: 300;
+            font-weight: 200;
+            font-size: 10px;
         }
         span {
             margin-left: 6px;
@@ -608,4 +612,150 @@ h1 {
 
 .navgation-contact-wrapper {
     padding: 20px;
+}
+
+.inner-breadcrumb {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    text-align: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    height: 60vh;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    z-index: -1;
+    background-attachment: fixed;
+}
+
+.bread-sec-title {
+    h3 {
+        color: white;
+        font-weight: 800;
+        font-size: 32px;
+        text-transform: capitalize;
+    }
+}
+
+.breadcrumb {
+    justify-content: center;
+    background: none;
+    li {
+        a {
+            color: white;
+        }
+    }
+}
+
+.package {
+    .col {
+        padding-right: 3px;
+        padding-left: 3px;
+    }
+    .navigation-menu li {
+        color: #494949;
+        font-weight: 600;
+        &:first-child {
+            border-top: 0;
+        }
+    }
+    .dropdown-content {
+        margin: 18px 0;
+        padding: 0 20px;
+        li {
+            a {
+                color: grey;
+                font-weight: 400;
+            }
+        }
+        .form-check {
+            margin: 12px 0;
+            label {
+                font-size: 14px;
+                text-transform: capitalize;
+            }
+        }
+    }
+}
+
+.pf-title {
+    h5 {
+        background: $primary-color;
+        color: white;
+        text-transform: capitalize;
+        text-align: left;
+        padding: 10px 20px;
+        border-radius: 32px;
+    }
+}
+
+.col-half-offset {
+    margin-left: 1.166667%;
+}
+
+.sortby {
+    border-bottom: 1px dotted grey;
+    padding-bottom: 12px;
+    select {
+        font-size: 13px;
+        padding: 8px 40px;
+    }
+    .search-filter {
+        justify-content: right;
+    }
+    img {
+        margin-right: 12px;
+    }
+}
+
+.fitler-result {
+    margin: 18px 0;
+}
+
+.search-filter {
+    margin-top: 0;
+    select {
+        background: whitesmoke;
+    }
+}
+
+.filter-tags {
+    padding: 0;
+}
+
+.sortby {
+    border: 0;
+}
+
+.upper-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.destination-filter {
+    .upper-wrapper {
+        padding: 0 60px;
+    }
+}
+
+.recommended-package {
+    background: whitesmoke;
+}
+
+.destination {
+    .learn-more {
+        button {
+            color: $primary-color;
+            outline: none;
+            border: none;
+            background: none;
+            text-transform: capitalize;
+        }
+    }
 }

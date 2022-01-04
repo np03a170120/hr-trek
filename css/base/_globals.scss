@@ -144,6 +144,7 @@ i.fas.fa-chevron-circle-left.slick-arrow {
 .navigation-menu {
     margin-top: 30px;
     li {
+        cursor: pointer;
         position: relative;
         text-transform: capitalize;
         margin: 12px 0;
@@ -218,5 +219,84 @@ i.fas.fa-chevron-circle-left.slick-arrow {
     li {
         font-size: 10px;
         color: $primary-color;
+    }
+}
+
+.destination {
+    background: $secondary_color;
+}
+
+.destination-text {
+    padding: 0 100px;
+}
+
+.dt-title {
+    width: 80%;
+    color: $primary-color;
+    h6 {
+        font-weight: 400;
+        line-height: 32px;
+        font-size: 21px;
+    }
+}
+
+.dt-text {
+    margin: 32px 0;
+    color: white;
+    text-align: justify;
+    p {
+        color: #d8d8d8;
+        line-height: 25px;
+    }
+}
+
+.destination-filter {
+    .search-filter {
+        margin-top: 18px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        select {
+            background: #f0f0f0;
+        }
+    }
+}
+
+.filter-tags {
+    margin: 18px 0;
+    padding: 0 300px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    .tag {
+        margin-right: 12px;
+        border-radius: 32px;
+        padding: 6px 12px;
+        line-height: 20px;
+        color: white;
+        display: inline-block;
+        background: $secondary_color;
+        h6 {
+            font-size: 12px;
+            margin: 0;
+            text-transform: capitalize;
+        }
+    }
+    button {
+        appearance: none;
+        background: none;
+        outline: none;
+        border: none;
+    }
+    img {
+        height: 15px;
+    }
+}
+
+.fitler-result,
+.tab-content,
+.package {
+    .row {
+        justify-content: center;
     }
 }
